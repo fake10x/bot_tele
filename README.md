@@ -7,6 +7,7 @@ note the click bot script was made by rayez
 
 pkg update && pkg upgrade 
 pkg install git -y
+git clone https://github.com/fake10x/bot_tele/
 cd bot_tele
 termux-setup-storage
 click allow
